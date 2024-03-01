@@ -46,5 +46,5 @@ Use PICKit programmer to upload the hex file to your PIC 18 microcontroller.
 ## Usage
 Once the code is uploaded, the LEDs connected to Port C of your PIC 18 microcontroller should start blinking according to the programmed pattern.
 
-![Alt Text](Untitled video - Made with Clipchamp.gif)
+![Uploading Untitled video - Made with Clipchamp.gif…]()
 
