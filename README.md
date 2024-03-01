@@ -2,7 +2,7 @@
 Getting Started
 These instructions will help you set up the project on your local machine and demonstrate LED blinking with PIC 18.
 
-##Prerequisites
+## Prerequisites
 PIC 18 microcontroller
 MPLAB X IDE
 PICKit programmer
