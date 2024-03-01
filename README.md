@@ -9,9 +9,9 @@ Clear documentation and code comments for easy understanding
 
 ## Table of Contents
 <br> 1-Getting Started
-2-Prerequisites
-3-Installation
-4-Usage
+<br> 2-Prerequisites
+<br> 3-Installation
+<br> 4-Usage
 
 ## Getting Started
 These instructions will help you set up the project on your local machine and demonstrate LED blinking with PIC 18.
