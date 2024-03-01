@@ -8,7 +8,7 @@ LEDs connected to Port C for demonstration
 Clear documentation and code comments for easy understanding
 
 ## Table of Contents
-<br> 1-Getting Started
+ 1-Getting Started
 <br> 2-Prerequisites
 <br> 3-Installation
 <br> 4-Usage
