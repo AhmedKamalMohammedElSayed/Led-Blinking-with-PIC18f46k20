@@ -7,7 +7,7 @@ Basic LED blinking program for PIC 18
 LEDs connected to Port C for demonstration
 Clear documentation and code comments for easy understanding
 
-##Table of Contents
+## Table of Contents
 1-Getting Started
 2-Prerequisites
 3-Installation
