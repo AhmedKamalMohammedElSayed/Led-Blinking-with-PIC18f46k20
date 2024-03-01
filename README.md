@@ -1,6 +1,21 @@
 # Led-Blinking-with-PIC18 f46 k20
-Getting Started
+## Overview
+This repository contains code and resources for implementing LED blinking interfacing with PIC 18 microcontroller. The project aims to demonstrate the fundamental concept of controlling LEDs using PIC 18 and connecting them to Port C.
+
+## Features
+Basic LED blinking program for PIC 18
+LEDs connected to Port C for demonstration
+Clear documentation and code comments for easy understanding
+
+##Table of Contents
+1-Getting Started
+2-Prerequisites
+3-Installation
+4-Usage
+
+## Getting Started
 These instructions will help you set up the project on your local machine and demonstrate LED blinking with PIC 18.
+
 
 ## Prerequisites
 PIC 18 microcontroller
@@ -11,6 +26,9 @@ Resistors (if necessary)
 Breadboard (if necessary)
 Jumper wires
 Installation
+Hardware Setup:
+
+## Installation
 Hardware Setup:
 
 Connect the LEDs to Port C of your PIC 18 microcontroller. Ensure proper polarity and current limiting resistors if needed.
@@ -24,5 +42,6 @@ Compile and Upload the Code:
 
 Compile the source code in MPLAB X IDE to generate the hex file.
 Use PICKit programmer to upload the hex file to your PIC 18 microcontroller.
-Usage
+
+## Usage
 Once the code is uploaded, the LEDs connected to Port C of your PIC 18 microcontroller should start blinking according to the programmed pattern.
